@@ -1,0 +1,694 @@
+[
+    {
+        "title": "Tech Conference 2024",
+        "eventStart": "Tue Aug 23 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 25 2024 at 5:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "InnovateX",
+        "details": "Tech Conference 2024 is brought to you by InnovateX, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Cloud",
+            "Leadership",
+            "Health",
+            "Networking"
+        ],
+        "location": "Online Event",
+        "price": 499,
+        "speakers": [
+            {
+                "speakerName": "Michael Brown",
+                "speakerRole": "CTO",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/1.jpg"
+            },
+            {
+                "speakerName": "David Lee",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/2.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0"
+    },
+    {
+        "title": "Marketing Seminar",
+        "eventStart": "Tue Aug 17 2024 at 9:00 AM",
+        "eventEnd": "Tue Aug 13 2024 at 1:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "GrowMark Academy",
+        "details": "Marketing Seminar is brought to you by GrowMark Academy, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Web3",
+            "Design",
+            "Marketing",
+            "Growth"
+        ],
+        "location": "Infocity, Hyderabad",
+        "price": 499,
+        "speakers": [
+            {
+                "speakerName": "Sarah Johnson",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/3.jpg"
+            },
+            {
+                "speakerName": "John Doe",
+                "speakerRole": "Marketing Manager",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/4.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1515168833906-d2a3b82b302a"
+    },
+    {
+        "title": "UI/UX Design Workshop",
+        "eventStart": "Tue Aug 21 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 16 2024 at 1:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "DesignPro Labs",
+        "details": "UI/UX Design Workshop is brought to you by DesignPro Labs, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Design",
+            "Networking",
+            "Gaming",
+            "Security"
+        ],
+        "location": "Online Event",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Emily Clark",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/5.jpg"
+            },
+            {
+                "speakerName": "Amit Sharma",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/6.jpg"
+            },
+            {
+                "speakerName": "John Doe",
+                "speakerRole": "AI Specialist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/7.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df"
+    },
+    {
+        "title": "Startup Pitch Night",
+        "eventStart": "Tue Aug 25 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 23 2024 at 2:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "Startup Hub India",
+        "details": "Startup Pitch Night is brought to you by Startup Hub India, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Startups",
+            "Security",
+            "Blockchain",
+            "Web3"
+        ],
+        "location": "Cyber Hub, Gurgaon",
+        "price": 999,
+        "speakers": [
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Founder & CEO",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/8.jpg"
+            },
+            {
+                "speakerName": "Priya Singh",
+                "speakerRole": "Founder & CEO",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/9.jpg"
+            },
+            {
+                "speakerName": "John Doe",
+                "speakerRole": "Business Coach",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/10.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df"
+    },
+    {
+        "title": "AI & Machine Learning Bootcamp",
+        "eventStart": "Tue Aug 25 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 11 2024 at 3:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "AI Visionaries",
+        "details": "AI & Machine Learning Bootcamp is brought to you by AI Visionaries, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "E-commerce",
+            "Marketing",
+            "Networking",
+            "Digital"
+        ],
+        "location": "Online Event",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Michael Brown",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/11.jpg"
+            },
+            {
+                "speakerName": "Sarah Johnson",
+                "speakerRole": "Business Coach",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/12.jpg"
+            },
+            {
+                "speakerName": "Priya Singh",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/13.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Photography Masterclass",
+        "eventStart": "Tue Aug 10 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 13 2024 at 4:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "PixelPro Studios",
+        "details": "Photography Masterclass is brought to you by PixelPro Studios, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Marketing",
+            "Security",
+            "Photography",
+            "Digital"
+        ],
+        "location": "Sapphire Tower, Ahmedabad",
+        "price": 1499,
+        "speakers": [
+            {
+                "speakerName": "Rahul Mehta",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/14.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36"
+    },
+    {
+        "title": "Cybersecurity Summit",
+        "eventStart": "Tue Aug 15 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 12 2024 at 3:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "CyberShield India",
+        "details": "Cybersecurity Summit is brought to you by CyberShield India, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Gaming",
+            "Startups",
+            "Growth",
+            "Marketing"
+        ],
+        "location": "Online Event",
+        "price": 999,
+        "speakers": [
+            {
+                "speakerName": "Sarah Johnson",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/15.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+    },
+    {
+        "title": "Blockchain & Web3 Meetup",
+        "eventStart": "Tue Aug 11 2024 at 9:00 AM",
+        "eventEnd": "Tue Aug 11 2024 at 5:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "Web3 Nexus",
+        "details": "Blockchain & Web3 Meetup is brought to you by Web3 Nexus, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Security",
+            "Photography",
+            "AI",
+            "Business"
+        ],
+        "location": "Infocity, Hyderabad",
+        "price": 1499,
+        "speakers": [
+            {
+                "speakerName": "Sophia Martinez",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/16.jpg"
+            },
+            {
+                "speakerName": "Sarah Johnson",
+                "speakerRole": "CTO",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/17.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+    },
+    {
+        "title": "Digital Marketing Crash Course",
+        "eventStart": "Tue Aug 11 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 21 2024 at 4:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "DigitalX Academy",
+        "details": "Digital Marketing Crash Course is brought to you by DigitalX Academy, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Networking",
+            "Finance",
+            "Security",
+            "Cloud"
+        ],
+        "location": "Online Event",
+        "price": 1499,
+        "speakers": [
+            {
+                "speakerName": "John Doe",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/18.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1115&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Leadership Excellence Summit",
+        "eventStart": "Tue Aug 18 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 19 2024 at 2:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "LeadMasters",
+        "details": "Leadership Excellence Summit is brought to you by LeadMasters, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Leadership",
+            "Business",
+            "Finance",
+            "Growth"
+        ],
+        "location": "Cyber Hub, Gurgaon",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Sophia Martinez",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/19.jpg"
+            },
+            {
+                "speakerName": "Michael Brown",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/20.jpg"
+            },
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/21.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1531058020387-3be344556be6"
+    },
+    {
+        "title": "Cloud Computing Expo",
+        "eventStart": "Tue Aug 23 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 25 2024 at 1:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "CloudVerse",
+        "details": "Cloud Computing Expo is brought to you by CloudVerse, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Startups",
+            "E-commerce",
+            "Cloud",
+            "Digital"
+        ],
+        "location": "Online Event",
+        "price": 4999,
+        "speakers": [
+            {
+                "speakerName": "Rahul Mehta",
+                "speakerRole": "Creative Director",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/22.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984"
+    },
+    {
+        "title": "Creative Writing Retreat",
+        "eventStart": "Tue Aug 24 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 21 2024 at 4:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "WordCrafters Guild",
+        "details": "Creative Writing Retreat is brought to you by WordCrafters Guild, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Cloud",
+            "Marketing",
+            "Photography",
+            "Investment"
+        ],
+        "location": "Infocity, Hyderabad",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Sophia Martinez",
+                "speakerRole": "Creative Director",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/23.jpg"
+            },
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Data Scientist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/24.jpg"
+            },
+            {
+                "speakerName": "David Lee",
+                "speakerRole": "Marketing Manager",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/25.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+    },
+    {
+        "title": "Health & Wellness Talk",
+        "eventStart": "Tue Aug 18 2024 at 9:00 AM",
+        "eventEnd": "Tue Aug 19 2024 at 5:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "HealthPlus India",
+        "details": "Health & Wellness Talk is brought to you by HealthPlus India, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Tech",
+            "Networking",
+            "Finance",
+            "Web3"
+        ],
+        "location": "Online Event",
+        "price": 1499,
+        "speakers": [
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/26.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1551434678-e076c223a692"
+    },
+    {
+        "title": "Music Production Masterclass",
+        "eventStart": "Tue Aug 17 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 19 2024 at 4:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "SoundWorks Studio",
+        "details": "Music Production Masterclass is brought to you by SoundWorks Studio, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Formal",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Health",
+            "AI",
+            "Blockchain",
+            "Cloud"
+        ],
+        "location": "Grand Hyatt Ballroom, Delhi",
+        "price": 499,
+        "speakers": [
+            {
+                "speakerName": "John Doe",
+                "speakerRole": "AI Specialist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/27.jpg"
+            },
+            {
+                "speakerName": "David Lee",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/28.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf"
+    },
+    {
+        "title": "Women in Tech Conference",
+        "eventStart": "Tue Aug 16 2024 at 9:00 AM",
+        "eventEnd": "Tue Aug 22 2024 at 3:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "WomenTech Network",
+        "details": "Women in Tech Conference is brought to you by WomenTech Network, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Growth",
+            "Business",
+            "AI",
+            "Startups"
+        ],
+        "location": "Online Event",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/29.jpg"
+            },
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Marketing Manager",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/30.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1522199710521-72d69614c702"
+    },
+    {
+        "title": "Gaming Hackathon",
+        "eventStart": "Tue Aug 15 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 18 2024 at 1:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "GameOn Arena",
+        "details": "Gaming Hackathon is brought to you by GameOn Arena, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Investment",
+            "E-commerce",
+            "Blockchain",
+            "Growth"
+        ],
+        "location": "Infocity, Hyderabad",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Emily Clark",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/31.jpg"
+            },
+            {
+                "speakerName": "Sarah Johnson",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/32.jpg"
+            },
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "Data Scientist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/33.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+    },
+    {
+        "title": "Entrepreneurship Bootcamp",
+        "eventStart": "Tue Aug 17 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 22 2024 at 5:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "BizLaunchers",
+        "details": "Entrepreneurship Bootcamp is brought to you by BizLaunchers, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "AI",
+            "Growth",
+            "Design",
+            "Blockchain"
+        ],
+        "location": "Online Event",
+        "price": 1499,
+        "speakers": [
+            {
+                "speakerName": "Emily Clark",
+                "speakerRole": "AI Specialist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/34.jpg"
+            },
+            {
+                "speakerName": "Sophia Martinez",
+                "speakerRole": "Security Analyst",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/35.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36"
+    },
+    {
+        "title": "E-commerce Growth Workshop",
+        "eventStart": "Tue Aug 21 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 22 2024 at 2:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "Shopify Gurus",
+        "details": "E-commerce Growth Workshop is brought to you by Shopify Gurus, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Design",
+            "Blockchain",
+            "Marketing",
+            "Growth"
+        ],
+        "location": "Victoria Convention Center, Kolkata",
+        "price": 1499,
+        "speakers": [
+            {
+                "speakerName": "David Lee",
+                "speakerRole": "Marketing Manager",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/36.jpg"
+            },
+            {
+                "speakerName": "Michael Brown",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/37.jpg"
+            },
+            {
+                "speakerName": "Sophia Martinez",
+                "speakerRole": "Business Coach",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/38.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1531058020387-3be344556be6"
+    },
+    {
+        "title": "Social Media Influencer Meetup",
+        "eventStart": "Tue Aug 24 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 20 2024 at 4:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "Influence360",
+        "details": "Social Media Influencer Meetup is brought to you by Influence360, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Tech",
+            "Finance",
+            "Marketing",
+            "E-commerce"
+        ],
+        "location": "Online Event",
+        "price": 4999,
+        "speakers": [
+            {
+                "speakerName": "Olivia Garcia",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/39.jpg"
+            },
+            {
+                "speakerName": "Priya Singh",
+                "speakerRole": "Product Designer",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/40.jpg"
+            },
+            {
+                "speakerName": "Michael Brown",
+                "speakerRole": "AI Specialist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/41.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+    },
+    {
+        "title": "Finance & Investment Summit",
+        "eventStart": "Tue Aug 22 2024 at 10:00 AM",
+        "eventEnd": "Tue Aug 23 2024 at 4:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "MoneyMindset Ventures",
+        "details": "Finance & Investment Summit is brought to you by MoneyMindset Ventures, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Business",
+            "Investment",
+            "Web3",
+            "Tech"
+        ],
+        "location": "NESCO Hall, Mumbai",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "Rahul Mehta",
+                "speakerRole": "Data Scientist",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/42.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984"
+    },
+    {
+        "title": "Space Exploration Symposium",
+        "eventStart": "Tue Aug 10 2024 at 9:00 AM",
+        "eventEnd": "Tue Aug 16 2024 at 2:00 PM",
+        "eventType": "Online Event",
+        "hostedBy": "ISRO Research Lab",
+        "details": "Space Exploration Symposium is brought to you by ISRO Research Lab, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Digital",
+            "Health",
+            "Leadership",
+            "Cloud"
+        ],
+        "location": "Online Event",
+        "price": 2499,
+        "speakers": [
+            {
+                "speakerName": "John Doe",
+                "speakerRole": "CTO",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/43.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+    },
+    {
+        "title": "Sustainable Future Forum",
+        "eventStart": "Tue Aug 21 2024 at 11:00 AM",
+        "eventEnd": "Tue Aug 20 2024 at 3:00 PM",
+        "eventType": "Offline Event",
+        "hostedBy": "EcoFuture Collective",
+        "details": "Sustainable Future Forum is brought to you by EcoFuture Collective, designed for professionals and enthusiasts who want to upskill. This event dives deep into hands-on workshops, panel discussions, and expert keynotes. Attendees will explore real-world case studies, emerging trends, and networking opportunities. Whether you're a beginner or an experienced professional, you'll gain actionable insights and strategies to boost your knowledge and career growth. Don't miss out on this chance to connect, learn, and evolve.",
+        "dressCode": "Casual",
+        "ageRestrictions": 18,
+        "eventTags": [
+            "Business",
+            "Growth",
+            "Marketing",
+            "E-commerce"
+        ],
+        "location": "NESCO Hall, Mumbai",
+        "price": 0,
+        "speakers": [
+            {
+                "speakerName": "David Lee",
+                "speakerRole": "CTO",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/44.jpg"
+            },
+            {
+                "speakerName": "Sophia Martinez",
+                "speakerRole": "Creative Director",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/women/45.jpg"
+            },
+            {
+                "speakerName": "Priya Singh",
+                "speakerRole": "UX Lead",
+                "speakerImageUrl": "https://randomuser.me/api/portraits/men/46.jpg"
+            }
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf"
+    }
+]
