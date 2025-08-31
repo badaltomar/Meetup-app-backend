@@ -1,5 +1,5 @@
 const { initializedDatabase } = require("./db/db.connect");
-const MeetupEvent = require("./models/MeetupEvent.models");
+const MeetupEvent = require("./models/meetupEvent.models");
 const meetupEventsData = require("./meetupEvents.json")
 
 const express = require('express')
