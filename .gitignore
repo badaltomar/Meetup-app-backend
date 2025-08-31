@@ -18,7 +18,6 @@ build/
 # Cache files
 .cache/
 .next/
-.vercel/
 
 # Dependency directories for different package managers
 .bun/
@@ -28,8 +27,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Vercel local config
-.vercel
 
 # Editor specific files
 .vscode/*
